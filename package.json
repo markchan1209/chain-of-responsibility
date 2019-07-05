@@ -1,0 +1,11 @@
+{
+  "name": "chain-of-responsibility",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "send": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
